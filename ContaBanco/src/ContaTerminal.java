@@ -36,8 +36,8 @@ public class ContaTerminal {
         System.out.println("");
         System.out.println("");
         System.out.println("");
-        System.out.println("");
         System.out.println(" ->  Conta criada com sucesso! ");
+        System.out.println("");
         System.out.println("Bem vindo, " + nome + ", O banco NOVO, agradece o seu cadastro");
         System.out.println("Seu saldo atual é: " + saldo);
     }
